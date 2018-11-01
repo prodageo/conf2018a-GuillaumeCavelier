@@ -2,16 +2,15 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena - Palais des sports de Rouen - 40 rue de Lillebonne - 76000 ROUEN, FRANCE 
+ - Conférence : Découvrir par l’exemple : Microservices et Event Sourcing avec Kafka et Kubernetes 
+ - Horaire de la conférence : 15h40
+ - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
+   - Tugdual Grall (https://twitter.com/tgrall)
  - Audience : ...
- - Auteur du billet : ...
+ - Auteur du billet : Guillaume Cavelier
  - Mots-clés
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
