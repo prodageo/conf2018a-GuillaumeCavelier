@@ -9,16 +9,16 @@
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
    - Tugdual Grall (https://twitter.com/tgrall)
- - Audience : ...
+ - Audience : Environ 100 personnes (la salle D, d'une capacité de 100 personnes était complète)
  - Auteur du billet : Guillaume Cavelier
  - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - URL de l'illustration : ![Avant le début de la conférence..., Photo par Guillaume Cavelier](IMG_20181122_154029.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+ - Nombre de diapos du support : Inconnu
+ - Plan du support : 
+   - 
 
 ## Résumé
 ...
