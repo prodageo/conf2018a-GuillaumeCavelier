@@ -18,7 +18,14 @@
  - Lien vers le support (diapos) présenté en conférence
  - Nombre de diapos du support : Inconnu
  - Plan du support : 
-   - 
+   - Introduction
+   - Event Drivent Architecture & Microservices
+   - Containers, Kubernetes, & OpenShift
+   - Apache Kafka & Streaming
+   - Use Cases
+    - The Stream Is The System of Record
+    - Using CDC to add Microservices to Monolith
+    - Event Sourcing: Healthcare, Retail
 
 ## Résumé
 ...
