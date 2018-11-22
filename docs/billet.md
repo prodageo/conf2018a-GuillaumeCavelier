@@ -9,13 +9,19 @@
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
    - Tugdual Grall (https://twitter.com/tgrall)
- - Audience : Environ 100 personnes (la salle D, d'une capacité de 100 personnes était complète)
+ - Audience : Environ 100 personnes (la salle D, d'une capacité de 100 personnes, était complète)
  - Auteur du billet : Guillaume Cavelier
  - Mots-clés
+   - Kubernetes
+   - Microservices
+   - Kafka
+   - Event Sourcing
+   - Change Data Capture
+   - Container
  - URL de l'illustration : ![Avant le début de la conférence..., Photo par Guillaume Cavelier](IMG_20181122_154029.jpg)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
+ - Lien vers le support (diapos) présenté en conférence : AJOUTER LE LIEN VERS LA VIDEO YOUTUBE
  - Nombre de diapos du support : Inconnu
  - Plan du support : 
    - Introduction
@@ -23,9 +29,9 @@
    - Containers, Kubernetes, & OpenShift
    - Apache Kafka & Streaming
    - Use Cases
-    - The Stream Is The System of Record
-    - Using CDC to add Microservices to Monolith
-    - Event Sourcing: Healthcare, Retail
+      - The Stream Is The System of Record
+      - Using CDC to add Microservices to Monolith
+      - Event Sourcing: Healthcare, Retail
 
 ## Résumé
 ...
