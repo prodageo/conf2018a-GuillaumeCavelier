@@ -21,6 +21,7 @@
    - Fiabilité
    - Analyse du comportement utilisateur
  - URL de l'illustration : ![Avant le début de la conférence..., Photo par Guillaume Cavelier](IMG_20181122_154029.jpg)
+   Avant le début de la conférence..., Photo par Guillaume Cavelier
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : Cf la vidéo Youtube lorsqu'elle sera publiée
