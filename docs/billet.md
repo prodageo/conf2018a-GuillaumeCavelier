@@ -1,4 +1,4 @@
-# Titre
+# Résumé de conférence de Guillaume Cavelier - Codeur en Seine 2018
 
 ## Cartouche d'identification
 
@@ -18,10 +18,13 @@
    - Event Sourcing
    - Change Data Capture
    - Container
+   - Fiabilité
+   - Analyse fu comportement utilisateur
+   
  - URL de l'illustration : ![Avant le début de la conférence..., Photo par Guillaume Cavelier](IMG_20181122_154029.jpg)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence : AJOUTER LE LIEN VERS LA VIDEO YOUTUBE
+ - Lien vers le support (diapos) présenté en conférence : Cf la vidéo Youtube lorsqu'elle sera publiée
  - Nombre de diapos du support : Inconnu
  - Plan du support : 
    - Introduction
@@ -45,4 +48,4 @@ Tugdual a ensuite présenté Kubernetes. Kubernetes va permettre d’orchestrer 
 
 
 ## Architecture et facteur qualité
-...
+Le facteur qualité qui correspond le plus à cette conférence est la fiabilité. De par son fonctionnement, Kubernetes va permettre de garantir une qualité de service pour l'utilisateur en démarrant de nouveaux conteneurs si le service est surchargé. L'utilisateur va donc toujours avoir un accès rapide au service et les temps de réponse vont rester faibles. Kafka va également permettre de garantir l'accès aux données grâce à la réplication entre brokers. Il n'est donc pas possible de perdre des données pendant l'utilisation. De plus, le mécanisme d'event sourcing va également permettre d'analyser le comportement de l'utilisateur et de vérifier que celui-ci n'essaie pas de nuire au service.
