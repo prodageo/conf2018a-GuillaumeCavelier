@@ -19,7 +19,8 @@
    - Change Data Capture
    - Container
    - Fiabilité
-   - Analyse fu comportement utilisateur
+   - Analyse du comportement utilisateur
+   
    
  - URL de l'illustration : ![Avant le début de la conférence..., Photo par Guillaume Cavelier](IMG_20181122_154029.jpg)
 
