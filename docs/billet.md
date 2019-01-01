@@ -34,7 +34,15 @@
       - Event Sourcing: Healthcare, Retail
 
 ## Résumé
-...
+Tugdual a présenté comment mettre en place des microservices à l’aide de Kafka pour réaliser de l’event sourcing et Kubernetes pour les déployer. 
+
+Kafka est un système de messaging type publish/subscribe qui permet de traiter des évènements (data streaming) et qui est tolérant aux pannes. L’intérêt de Kafka est qu’il va stocker tous les messages qu’il reçoit dans un broker. Nous allons donc pouvoir envoyer des messages et lire ceux envoyés. Afin d’accélérer les lectures et écritures, Kafka divise le stockage des messages en partitions. Plusieurs machines vont stocker des messages sur des partitions et plusieurs autres vont pouvoir les lire simultanément. Kafka permet également de répliquer les données entre brokers afin de ne pas perdre de données.
+
+Kafka va également permettre de réaliser du processing sur nos données. Vu que tous nos messages sont stockés, nous allons pouvoir rejouer des messages envoyés plus tôt (event sourcing). Par exemple, nous allons pouvoir analyser le comportement d’utilisateurs qui dépenserait trop d’argent. L’utilisateur va utiliser sa carte sur internet, ses actions vont être enregistrées et il va être débité en temps réel. Quelque temps plus tard nous allons analyser ce qu’il a effectué et lui dire « Attention vous avez effectué des séries de transactions étranges sur cette période ». Cela peut permettre de détecter des fraudes par exemple. 
+
+Tugdual a ensuite présenté Kubernetes. Kubernetes va permettre d’orchestrer les containers. Par exemple, nous allons pouvoir déclarer combien de container nous souhaitons en utilisation normale, au minimum ou lors de grosses charges. Kubernetes va également gérer la répartition de charge et être capable de démarrer de nouveaux containers à la volée.
+
+
 
 ## Architecture et facteur qualité
 ...
